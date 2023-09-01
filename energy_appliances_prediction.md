@@ -1,4 +1,4 @@
-IOT Energy Appliances Prediction
+IOT Energy Consumption Home Appliances Prediction
 ================
 
 ![](home_appliances.png)
