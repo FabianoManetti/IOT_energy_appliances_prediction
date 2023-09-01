@@ -1,6 +1,5 @@
 IOT Energy Appliances Prediction
 ================
-Fabiano Manetti
 
 ![](home_appliances.png)
 
@@ -38,11 +37,11 @@ consumption data.
 # 3. Setting working directory
 
 ``` r
-setwd("C:/Users/fabia/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Machine_Learning/Projetos/projeto8-data_files/IOT_energy_prediction")
+setwd("C:/Users/fabiano/OneDrive/DSA/Machine_Learning/Projetos/projeto8-data_files/IOT_energy_prediction")
 getwd()
 ```
 
-    ## [1] "C:/Users/fabia/OneDrive/Área de Trabalho/Arquivos/Data_Science/DSA/Machine_Learning/Projetos/projeto8-data_files/IOT_energy_prediction"
+    ## [1] "C:/Users/fabiano/OneDrive/DSA/Machine_Learning/Projetos/projeto8-data_files/IOT_energy_prediction"
 
 # 4. Importing libraries
 
