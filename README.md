@@ -57,7 +57,7 @@ consumption data.
 
 <center><img src="energy_appliances_prediction_files/figure-gfm/unnamed-chunk-19-2.png"></center><br>
 
-- By these graph plots, there was problem a difference in the consumption among the days in which the data were measured and extracted, indicating that **`Week status`, `Day of week` or both could be used as predictive features**.
+- By these graph plots, there was probably a difference in the consumption among the days in which the data were measured and extracted, indicating that **`Week status`, `Day of week` or both could be used as predictive features**.
 
 ### Histogram and boxplot of energy consumption
 
